@@ -8,5 +8,3 @@ Join Our Community
 
 - Go to app https://air3.app/
 - X (Twitter) https://air3.app/
-- Telegram https://t.me/+oedeIMakcwIyNWJl
-- DeBank https://debank.com/profile/0xceb1f2efe1cebee66064abb4fde8a20f0b32f931
