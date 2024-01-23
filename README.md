@@ -8,4 +8,5 @@ Join Our Community
 
 - Go to app https://air3.app/
 - X (Twitter) https://twitter.com/air3app
+- Docs https://air3.gitbook.io/
 
