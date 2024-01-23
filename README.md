@@ -1,4 +1,4 @@
-# Air3.app
+# About
 
 We are an essential on-chain activity tool. This is an important step towards the Web3 social media platform of real-time short messaging. We primarily provide on-chain short messaging services, but in addition to that we are also preparing to provide NFTs minting services. 
 
