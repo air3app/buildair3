@@ -6,7 +6,7 @@ The platform is designed to be deployed on multi-chain to ensure accessibility a
 
 Join Our Community
 
-- Go to app https://air3.app/
+- Main site https://air3.app/
 - X (Twitter) https://twitter.com/air3app
 - Docs https://air3.gitbook.io/
 
