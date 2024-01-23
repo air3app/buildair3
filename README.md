@@ -8,3 +8,5 @@ Join Our Community
 
 - Go to app https://air3.app/
 - X (Twitter) https://twitter.com/air3app
+
+Focus on-chain*
