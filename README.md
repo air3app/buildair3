@@ -8,6 +8,7 @@ We deploy the Dapp on multi-chain such as Superchain first, then ZK, and protoco
 
 Join Our Community
 
+- Bento https://bento.me/air3
 - Main site https://air3.app/
 - X (Twitter) https://twitter.com/air3app
 - Docs https://air3.gitbook.io/
