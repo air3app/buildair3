@@ -1,12 +1,15 @@
 # About
 
-We are an essential on-chain activity tool. This is an important step towards the Web3 social media platform of real-time short messaging. We primarily provide on-chain short messaging services, but in addition to that we are also preparing to provide NFTs minting services. 
+We are an essential on-chain activity tool. This is an important step towards the Web3 social media platform of real-time short msg, mint nfts, deploy contracts and bridge.
 
-The platform is designed to be deployed on multi-chain to ensure accessibility and decentralization. We deploy applications on multi-chain such as Ethereum, Polygon, Arbitrum, Optimism, Base, Mantan, Scroll, Polygon zkEVM, Linea, Mantle, Lightlink, Tenet, opBNB and also some testnets. Goerli, Taiko A6 Katla, Zeta Athens, Frame Testnet, X1 Testnet, Berachain Artio etc.
+We are a platform that primarily provides NFT minting services, but in addition to that we also provide services for deploying MSG contracts.
+
+We deploy the Dapp on multi-chain such as Superchain first, then ZK, and protocols still in testnet phase such as Berachain Artio, Taiko Katla L2, Monad Testnet.
 
 Join Our Community
 
 - Main site https://air3.app/
 - X (Twitter) https://twitter.com/air3app
 - Docs https://air3.gitbook.io/
+- Support https://t.me/+oedeIMakcwIyNWJl
 
