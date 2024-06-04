@@ -8,4 +8,4 @@ Let's explore our community
 
 - https://air3.app/
 - https://x.com/air3app
-- Support: https://bento.me/air3
+- https://bento.me/air3 [Support]
