@@ -2,6 +2,8 @@
 
 Multi-chain NFT minting platform suitable for onchain builders.
 
+Explore NFTs, Build together, Mint together.
+
 ↗↗↗
 
 Let's explore our community
